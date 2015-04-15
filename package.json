@@ -1,0 +1,15 @@
+{
+  "author": "Ian Davies",
+  "name": "single-page-server",
+  "description": "Small HTTP server for single-page web apps",
+  "version": "0.1.0",
+  "main": "./lib/server.js",
+  "bin": {
+    "single-page-server": "./bin/single-page-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviesian/single-page-server"
+  },
+  "readmeFilename": "README.md"
+}
